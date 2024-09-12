@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
-<h2 align="center">Aspiring Data Analyst & Senior Media Consultant for over two decade's</h2>
+<h2 align="center">Aspiring Data Analyst</h2>
+<h2 align="center">&</h2>
+<h2 align="center">Senior Media Consultant for over two decade's</h2>
 <h3 align="center">Passionate full stack developer from Hamburg (de)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulfidate&label=Profile%20views&color=0e75b6&style=flat" alt="sulfidate" /> </p>
