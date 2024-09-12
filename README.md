@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h2 align="center">Aspiring Data Analyst</h2>
-<h2 align="center">&</h2>
 <h2 align="center">Senior Media Consultant for over two decade's</h2>
 <h3 align="center">Passionate full stack developer from Hamburg (de)</h3>
 
