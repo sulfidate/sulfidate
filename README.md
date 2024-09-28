@@ -1,6 +1,6 @@
 <h2 align="center">hey it's me marcus</h2>
-<h3 align="center">currently working in a Data Analyst Bootcamp</h3>
-<h3 align="center">passionate full stack developer from hamburg (de)</h3>
+<h3 align="center">currently working in a data analyst bootcamp</h3>
+<h3 align="center">passionate full stack developer from hamburg</h3>
 <h3 align="center">senior media consultant for over two decade's</h3>
 
 <h3 align="left">Connect with me:</h3>
