@@ -3,18 +3,10 @@
 <h3 align="center">passionate full stack developer from hamburg</h3>
 <h3 align="center">senior media consultant for over two decade's</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@macbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@macbub" height="30" width="40" /></a>
-<a href="https://instagram.com/@macbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@macbub" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sulfidate.rockstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sulfidate.rockstar" height="30" width="40" /></a>
 
-
-<a href="https://stackoverflow.com/users/sulfidate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sulfidate" height="30" width="40" /></a>
-<a href="https://codepen.io/sulfiuddate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sulfiuddate" height="30" width="40" /></a>
-<a href="https://dev.to/sulfidate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sulfidate" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sulfidate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sulfidate" height="30" width="40" /></a>
-
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sulfidate&label=Profile%20views&color=0e75b6&style=flat" alt="sulfidate" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulfidate" alt="sulfidate" /></a> </p>
 
 <!-- BLOG-POST-LIST:START 
 
@@ -57,9 +49,20 @@
 <br>
 <br>
 <br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sulfidate&label=Profile%20views&color=0e75b6&style=flat" alt="sulfidate" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulfidate" alt="sulfidate" /></a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@macbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@macbub" height="30" width="40" /></a>
+<a href="https://instagram.com/@macbub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@macbub" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sulfidate.rockstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sulfidate.rockstar" height="30" width="40" /></a>
+
+
+<a href="https://stackoverflow.com/users/sulfidate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sulfidate" height="30" width="40" /></a>
+<a href="https://codepen.io/sulfiuddate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sulfiuddate" height="30" width="40" /></a>
+<a href="https://dev.to/sulfidate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sulfidate" height="30" width="40" /></a>
+<a href="https://codesandbox.com/sulfidate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sulfidate" height="30" width="40" /></a>
+
 
 <!-- :START 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulfidate&show_icons=true&locale=en&layout=compact" alt="sulfidate" /></p>
