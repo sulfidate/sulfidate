@@ -6,7 +6,6 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulfidate&label=Profile%20views&color=0e75b6&style=flat" alt="sulfidate" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulfidate" alt="sulfidate" /></a> </p>
 
 <!-- BLOG-POST-LIST:START 
 
@@ -63,7 +62,7 @@
 <a href="https://dev.to/sulfidate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sulfidate" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sulfidate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sulfidate" height="30" width="40" /></a>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulfidate" alt="sulfidate" /></a> </p>
 <!-- :START 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sulfidate&show_icons=true&locale=en&layout=compact" alt="sulfidate" /></p>
 
