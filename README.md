@@ -1,5 +1,5 @@
 <h2 align="center">hey fellow devs and tecs, it's me, sulfidate 👋</h2>
-<h3 align="center">currently finished a data analyst bootcamp [@neuefische](https://github.com/neuefische)</h3>
+<h3 align="center">currently finished a data analyst bootcamp <a href="https://github.com/neuefische">@neuefische</a></h3>
 <h3 align="center">passionate full stack web developer and web designer</h3>
 <h3 align="center">senior media consultant for over two decade's</h3>
 
