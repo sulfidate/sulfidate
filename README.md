@@ -1,6 +1,6 @@
-<h2 align="center">hey it's me, sulfidate</h2>
+<h2 align="center">hey fellow dev's and tec-folks, it's me, sulfidate 👋</h2>
 <h3 align="center">currently finished a data analyst bootcamp @neuefische</h3>
-<h3 align="center">is passionate full stack developer and web designer</h3>
+<h3 align="center">passionate full stack web developer and web designer</h3>
 <h3 align="center">senior media consultant for over two decade's</h3>
 
 
