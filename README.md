@@ -1,7 +1,7 @@
 <h2 align="left">Hey there 👋</h2>
-<h3 align="left">currently finished a data analyst bootcamp <a href="https://github.com/neuefische" target="_blank" rel="noopener noreferrer">@neuefische</a></h3>
-<h3 align="left">passionate full stack web developer</h3>
-<h3 align="left">senior media consultant for over two decade's</h3>
+<p align="left">currently finished a data analyst bootcamp</p>
+<p align="left">passionate full stack web developer</p>
+<p align="left">senior media consultant for over two decade's</p>
 
 
 <br>
