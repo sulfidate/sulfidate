@@ -1,7 +1,8 @@
 <h2 align="left">Hey there 👋</h2>
-<p align="left">currently finished a data analyst bootcamp</p>
-<p align="left">passionate full stack web developer</p>
-<p align="left">senior media consultant for over two decade's</p>
+<h4>It's me, sulfidate...</h4>
+<p>- currently finished a <b>data analyst</b> bootcamp</p>
+<p>- passionate  <b>full stack web developer</b></p>
+<p>- senior  <b>media consultant</b> for over two decade's</p>
 
 
 <br>
