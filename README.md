@@ -1,5 +1,5 @@
-<h2 align="center">hey it's me marcus</h2>
-<h3 align="center">currently working in a data analyst bootcamp</h3>
+<h2 align="center">hey it's me, sulfidate</h2>
+<h3 align="center">finished a data analyst bootcamp @neuefische currently</h3>
 <h3 align="center">passionate full stack developer from hamburg</h3>
 <h3 align="center">senior media consultant for over two decade's</h3>
 
